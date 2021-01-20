@@ -3,6 +3,8 @@
 <!--
 **rafaelbgil/rafaelbgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Profissional com mais de 7 anos de experiência em administração de sistemas Linux com atuação principal em middleware jboss/wildfly, tomcat, apache e aplicações baseadas em java. Larga experiência em ambientes de alta criticidade e cluster. Atuação em frentes de planejamento de migração de sistemas complexos e automação de ambientes e rotinas de trabalho utilizando ansible, jenkins , shell script, python entre outros. Profissional aderente a cultura devops e com perfil autodidata.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
