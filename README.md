@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-Profissional com mais de 7 anos de experiência em administração de sistemas Linux com atuação principal em middleware jboss/wildfly, tomcat, apache e aplicações baseadas em java. Larga experiência em ambientes de alta criticidade e cluster. Atuação em frentes de planejamento de migração de sistemas complexos e automação de ambientes e rotinas de trabalho utilizando ansible, jenkins , shell script, python entre outros. Profissional aderente a cultura devops e com perfil autodidata.
+Profissional com mais de 10 anos de experiência em administração de sistemas Linux com atuação principal em middleware jboss/wildfly, tomcat, apache e aplicações baseadas em java. Larga experiência em ambientes de alta criticidade e cluster. Atuação em frentes de planejamento de migração de sistemas complexos e automação de ambientes e rotinas de trabalho utilizando ansible, jenkins , shell script, python entre outros. Profissional aderente a cultura devops e com perfil autodidata.
 
 - 🔭 Atualmente trabalhando e desenvolvendo projetos pessoais.
 - 🌱 Estudando ferramentas de automação e programação em python.
